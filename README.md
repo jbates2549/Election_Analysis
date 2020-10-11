@@ -7,6 +7,7 @@ Data source election_results.csv
 Software, Python 3.7 64 bit
 
 ##Summary
+
 The analysis of the election shows:
 Election Results
 -------------------------
