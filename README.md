@@ -6,7 +6,8 @@ Elections analysis using python.  Results are displayed on screen and printed to
 Data source election_results.csv
 Software, Python 3.7 64 bit
 
-##Summary
+## Summary
+
 
 The analysis of the election shows:
 Election Results
